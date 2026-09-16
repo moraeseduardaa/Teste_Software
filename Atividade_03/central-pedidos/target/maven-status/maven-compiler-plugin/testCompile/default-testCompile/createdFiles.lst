@@ -1,0 +1,8 @@
+br\edu\ifpr\pedidos\PagamentoServiceTest.class
+br\edu\ifpr\pedidos\CalculadoraFreteTest.class
+br\edu\ifpr\pedidos\AnaliseRiscoTest.class
+br\edu\ifpr\pedidos\ClienteTest.class
+br\edu\ifpr\pedidos\PedidoServiceTest.class
+br\edu\ifpr\pedidos\PedidoTest.class
+br\edu\ifpr\pedidos\ItemPedidoTest.class
+br\edu\ifpr\pedidos\PoliticaDescontoTest.class

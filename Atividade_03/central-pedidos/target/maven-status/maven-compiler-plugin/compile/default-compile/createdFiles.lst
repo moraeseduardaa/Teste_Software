@@ -1,0 +1,10 @@
+br\edu\ifpr\pedidos\AnaliseRisco.class
+br\edu\ifpr\pedidos\PagamentoService.class
+br\edu\ifpr\pedidos\Pedido.class
+br\edu\ifpr\pedidos\ResultadoPedido.class
+br\edu\ifpr\pedidos\PedidoService.class
+br\edu\ifpr\pedidos\ProcessadorPagamento.class
+br\edu\ifpr\pedidos\PoliticaDesconto.class
+br\edu\ifpr\pedidos\CalculadoraFrete.class
+br\edu\ifpr\pedidos\Cliente.class
+br\edu\ifpr\pedidos\ItemPedido.class
